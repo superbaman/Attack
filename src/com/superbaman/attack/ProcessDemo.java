@@ -3,13 +3,13 @@ package com.superbaman.attack;
 import java.io.IOException;
 
 /**  
- * ´´½¨Ê±¼ä£º2015Äê6ÔÂ3ÈÕ ÉÏÎç8:49:27
- * ÏîÄ¿Ãû³Æ£ºAttack
- * @author wangyc  
+ * åˆ›å»ºæ—¶é—´ï¼š2015å¹´6æœˆ3æ—¥ ä¸Šåˆ8:49:27
+ * é¡¹ç›®åç§°ï¼šAttack
+ * @author wangyc good boy 
  * @version 1.0
  * @since JDK 1.7.0_21  
- * ÎÄ¼şÃû³Æ£ºProcessDemo.java  
- * ÀàËµÃ÷£º  
+ * æ–‡ä»¶åç§°ï¼šProcessDemo.java  
+ * ç±»è¯´æ˜ï¼š  
  */
 
 public class ProcessDemo {
